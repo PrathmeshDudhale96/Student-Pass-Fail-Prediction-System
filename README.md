@@ -4,7 +4,7 @@ This project is designed to predict student exam results (Pass/Fail) using machi
 
 ---
 
-## 🔍 Features
+# 🔍 Features
 
 - Dataset cleaning and preprocessing
 - Categorical encoding and vectorization
@@ -16,19 +16,19 @@ This project is designed to predict student exam results (Pass/Fail) using machi
 
 ---
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 👉 [Click here to use the Streamlit App](https://student-pass-fail-prediction-system.streamlit.app/)
 
 ---
 
-## 📓 Google Colab Notebook
+# 📓 Google Colab Notebook
 
 👉 [Open in Google Colab](https://colab.research.google.com/drive/1IMEkFvDbMmq5UL2QggcVxysg7v2Xp0Ie?usp=sharing)
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -40,27 +40,17 @@ This project is designed to predict student exam results (Pass/Fail) using machi
 
 ---
 
-## 📁 Project Structure
-├── data/ # Dataset files (if applicable)
-├── app.py # Streamlit frontend app
-├── model.pkl # Trained model file
-├── preprocessing.py # Data preprocessing steps
-├── requirements.txt # Python dependencies
-├── README.md # Project overview and instructions
 
-📊 Results:-
-## 📷 Prediction Results (Screenshots)
+# 📊 Results:-
 
 Below are example predictions from the deployed Streamlit app:
 <img width="800" height="800" alt="Screenshot 2025-07-18 175110" src="https://github.com/user-attachments/assets/fdcb95b2-56f0-428d-af48-48938cca8fb4" />
 <img width="800" height="800" alt="Screenshot 2025-07-18 175144" src="https://github.com/user-attachments/assets/79e3eaad-85c4-490b-8ccc-e0e124fa6adc" />
 
 
-
-
-📬 Contact
+# 📬 Contact
 If you have any questions or suggestions, feel free to reach out!
-
 Prathmesh Dudhale
-📧 prathmeshdudhale96@email.com (optional)
+
+📧 prathmeshdudhale96@email.com 
 
