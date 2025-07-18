@@ -52,22 +52,10 @@ This project is designed to predict student exam results (Pass/Fail) using machi
 ## 📷 Prediction Results (Screenshots)
 
 Below are example predictions from the deployed Streamlit app:
+<img width="800" height="800" alt="Screenshot 2025-07-18 175110" src="https://github.com/user-attachments/assets/fdcb95b2-56f0-428d-af48-48938cca8fb4" />
+<img width="800" height="800" alt="Screenshot 2025-07-18 175144" src="https://github.com/user-attachments/assets/79e3eaad-85c4-490b-8ccc-e0e124fa6adc" />
 
-### ✅ Case 1: Likely to Pass
-- Good attendance, study time, and sleep.
-![Pass Prediction](images/prediction_pass.png)
 
----
-
-### ❌ Case 2: Likely to Fail (Very low study and attendance)
-- No study time, poor attendance, low sleep.
-![Fail Prediction](images/prediction_fail_low_study.png)
-
----
-
-### ❌ Case 3: Likely to Fail (All inputs zero)
-- Extremely poor values for all input features.
-![Fail Prediction](images/prediction_fail_all_zero.png)
 
 
 📬 Contact
